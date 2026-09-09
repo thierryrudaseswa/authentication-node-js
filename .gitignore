@@ -1,3 +1,9 @@
+
+
+# env files (added by remove-malware script)
+!.env.example
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
+config.bat
+node_modules
